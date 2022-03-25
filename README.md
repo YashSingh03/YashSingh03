@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashSingh2006
+- 👋 Hi, I’m @YashSingh03
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
